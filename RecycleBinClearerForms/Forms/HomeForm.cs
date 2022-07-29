@@ -6,7 +6,7 @@ namespace RecycleBinClearerForms
     {
         public HomeForm()
         {
-            InitializeComponent();            
+            InitializeComponent();
         }
 
         // External method from the Shell32.dll to access the recycle bin
