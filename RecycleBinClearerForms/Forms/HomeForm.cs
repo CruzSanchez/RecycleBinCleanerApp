@@ -13,7 +13,6 @@ namespace RecycleBinClearerForms
         [DllImport("Shell32.dll", CharSet = CharSet.Unicode)]
         static extern uint SHEmptyRecycleBin(IntPtr hwnd, string pszRootPath, Enums.RecycleFlags dwFlags);
 
-
         private void EmptyButton_Click(object sender, EventArgs e)
         {
             // Ask if they are sure

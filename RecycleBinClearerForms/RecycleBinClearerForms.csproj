@@ -11,6 +11,7 @@
     <Authors>Cruz Sanchez</Authors>
     <Company />
     <Product>Recycle Bin Emptier</Product>
+    <Platforms>AnyCPU;x64;x86</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
